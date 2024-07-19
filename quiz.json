@@ -1,19 +1,104 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of Avengers: Endgame with this quiz.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Who wields Mjolnir?",
+      "answers": ["Thor", "Hulk", "Loki"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Who sacrifices for the Soul Stone?",
+      "answers": ["Nat", "Tony", "Thor"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Who fights Thanos first?",
+      "answers": ["Thor", "Hulk", "Tony"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "What is the Hulk's form?",
+      "answers": ["Smart", "Rage", "Gray"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the time heist leader?",
+      "answers": ["Cap", "Tony", "Nat"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Tony's daughter's name?",
+      "answers": ["Morgan", "Pepper", "Nat"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who returns the stones?",
+      "answers": ["Cap", "Thor", "Tony"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who lifts Mjolnir besides Thor?",
+      "answers": ["Cap", "Hulk", "Loki"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Black Widow's weapon?",
+      "answers": ["Staves", "Shield", "Sword"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who gets the Time Stone?",
+      "answers": ["Hulk", "Thor", "Cap"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Where is Vormir?",
+      "answers": ["Space", "Earth", "Asgard"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Rocket's partner?",
+      "answers": ["Thor", "Hulk", "Groot"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who becomes Ronin?",
+      "answers": ["Clint", "Tony", "Thor"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who leads Wakanda?",
+      "answers": ["T'Challa", "Shuri", "Okoye"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Tony's suit number?",
+      "answers": ["85", "50", "42"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who does Cap dance with?",
+      "answers": ["Peggy", "Sharon", "Nat"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who destroys the stones?",
+      "answers": ["Thanos", "Hulk", "Tony"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who fights past Cap?",
+      "answers": ["Cap", "Bucky", "Nat"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who wields Stormbreaker?",
+      "answers": ["Thor", "Cap", "Hulk"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who snaps last?",
+      "answers": ["Tony", "Hulk", "Cap"],
       "correctAnswerIndex": 0
     }
   ]
